@@ -1,4 +1,5 @@
 智谱apiSecretKey：{apiKey}.{apiSecret}
+
 例如：74cc430e842445668d37bc0e3ef1ac6b.******
 apiKey：74cc430e842445668d37bc0e3ef1ac6b
 apiSecret：******
